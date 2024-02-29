@@ -23,15 +23,15 @@ public class Person {
         /* Now you can use the Object `person1` */
 
     }
-    Person[] people = new Person[10]; // an array of 10 Person objects
-    Person person1 = new Person("Alice", 25);
-    Person person2 = new Person("Bob", 30);
-
-//statements must be inside a method, constructor, or initializer block and assing values
-    public Person(){
-        people[0] = person1;
-        people[1] = person2;
-    }
+//    Person[] people = new Person[10]; // an array of 10 Person objects
+//    Person person1 = new Person("Alice", 25);
+//    Person person2 = new Person("Bob", 30);
+//
+////statements must be inside a method, constructor, or initializer block and assing values
+//    {
+//        people[0] = person1;
+//        people[1] = person2;
+//    }
 
 
 
